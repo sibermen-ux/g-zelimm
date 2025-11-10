@@ -37,12 +37,7 @@
     transition: transform 0.3s, box-shadow 0.3s;
     word-wrap: break-word;
 }
-
-
-
-
-
-    }
+ }
 
     .card:hover {
         transform: scale(1.03);
