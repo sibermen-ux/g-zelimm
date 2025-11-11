@@ -19,11 +19,13 @@ karıcımmmmmmmmmmmmm
       text-align: center;
       padding: 20px;
       font-size: 2.2em;
-      text-shadow: 2px 2px 5px #000;}
+      text-shadow: 2px 2px 5px #000;
+      
+}
 
     .container {
       padding: 10px;
-    }
+}
 
     .card {
       background: rgba(255, 255, 255, 0.2);
